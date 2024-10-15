@@ -12279,6 +12279,7 @@ dependencies = [
  "sp-runtime 39.0.0",
  "sp-storage 21.0.0",
  "sp-trie 37.0.0",
+ "tower",
  "trie-db 0.29.1",
 ]
 
